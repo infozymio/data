@@ -1,0 +1,199 @@
+[
+  {
+    "simple": [
+      {
+        "question": "The neighborhood where Chung-Ang University is located is called Heukseok.",
+        "answer": true,
+        "explanation": "Chung-Ang University's main Seoul campus is situated in Heukseok-dong, Dongjak-gu.",
+        "imgLink": "https://i.ibb.co/BVMSYjNr/image.png"
+      },
+      {
+        "question": "The official mascot of Chung-Ang University is named Ping.",
+        "answer": false,
+        "explanation": "CAU's official mascot is a blue dragon named Puang (푸앙), not Ping.",
+        "imgLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLTiAkpWtKvtUgUpSN8h43NtaI_5_Koq4sOoEEQXo_gw&s=10"
+      },
+      {
+        "question": "On the Seoul subway, Line 2 (the green line) is a circular line that forms a complete loop around the city.",
+        "answer": true,
+        "explanation": "Seoul Subway Line 2 operates as a circular loop connecting major central districts and transit hubs.",
+        "imgLink": "https://media.triple.guide/triple-cms/c_limit,f_auto,h_2048,w_2048/6df74287-c2ac-4310-89e6-497960ec3000.jpeg"
+      },
+      {
+        "question": "South Korea has previously hosted the Olympic Games.",
+        "answer": true,
+        "explanation": "South Korea hosted both the 1988 Summer Games in Seoul and the 2018 Winter Games in Pyeongchang.",
+        "imgLink": "https://i.ebayimg.com/images/g/QKkAAOSwTT9m4fKG/s-l1200.jpg"
+      },
+      {
+        "question": "South Korea is the Olympic champion in archery Men or Women.",
+        "answer": true,
+        "explanation": "South Korea holds dominant Olympic archery titles, regularly sweeping individual and team gold medals.",
+        "imgLink": "https://www.anocolympic.org/wp-content/uploads/2024/07/GettyImages-2164104905.jpg"
+      },
+      {
+        "question": "The Greater Seoul area (including Incheon and Gyeonggi Province) accounts for more than 50% of South Korea's total population.",
+        "answer": true,
+        "explanation": "Over 26 million residents live in the Seoul Capital Area, exceeding half of the country's population.",
+        "imgLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa5OcKBnP_Mp2KnjfeacZRT00AbE9c2UrY-50DJiVHkx3KuwatnCB5uMrx&s=10"
+      },
+      {
+        "question": "In South Korea, April 14th is known as \"Black Day.\"",
+        "answer": true,
+        "explanation": "Black Day is an unofficial holiday where singles gather to wear black and eat jajangmyeon.",
+        "imgLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzM4Nxv1EGvQqmjQL3OEfdg6KKnRSknSydR1yysg3zIxV_Oy0yaVjPVPE7&s=10"
+      },
+      {
+        "question": "The highest mountain in South Korea is located near Sokcho: Mount Seoraksan.",
+        "answer": false,
+        "explanation": "South Korea's highest peak is Mount Hallasan (1,947 m) on Jeju Island; Seoraksan (1,708 m) ranks third.",
+        "imgLink": "https://besthike.com/wp-content/uploads/2010/12/hallasan.jpg"
+      },
+      {
+        "question": "The South Korean series Squid Game is the most-watched series on Netflix.",
+        "answer": true,
+        "explanation": "Squid Game remains Netflix's most-watched series of all time by total viewers and hours watched.",
+        "imgLink": "https://crystalpng.com/wp-content/uploads/2025/01/squid-game-logo-in-circle.png"
+      },
+      {
+        "question": "In Japan, some people eat KFC chicken during Christmas Eve as a \"traditional\" meal.",
+        "answer": true,
+        "explanation": "Eating KFC on Christmas Eve became an enduring Japanese tradition following a successful 1974 marketing campaign.",
+        "imgLink": "https://shoyusugar.com/wp-content/uploads/2025/12/KFC-bucket-2025.jpg"
+      },
+      {
+        "question": "The Eiffel Tower is 385 meters tall.",
+        "answer": false,
+        "explanation": "The Eiffel Tower stands at 330 meters tall, including its tip and antennas.",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Dimensions_tour_Eiffel.JPG?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+      },
+      {
+        "question": "The Bagel was invented in Poland.",
+        "answer": true,
+        "explanation": "Historical records confirm bagels originated within the 16th-17th century Jewish community of Krakow, Poland.",
+        "imgLink": "https://projectbly.com/assets/images/uploads/photos/photo/filename/4517/lookbook_30b7a2ba-227c-4c68-b47a-ff10d8f88fe0.jpg"
+      }
+    ],
+    "medium": [
+      {
+        "question": "The president will go on a university exchange program to Italy next year.",
+        "answer": false,
+        "explanation": "The president is going to go to France, not Italy.",
+        "imgLink": "https://i.ibb.co/mVBz0Kjt/image.png"
+      },
+      {
+        "question": "Kimchi can be made with almost everything but watermelon kimchi does not exist.",
+        "answer": false,
+        "explanation": "Watermelon rind kimchi (subak-kkakdugi) is an established Korean culinary preparation.",
+        "imgLink": "https://en-chatelaine.mblycdn.com/uploads/ench/2024/07/watermelon-kimchi-recipe-feature.jpg"
+      },
+      {
+        "question": "The Korea Club has existed for more than 10 years.",
+        "answer": true,
+        "explanation": "The organization has maintained active operations for over a decade.",
+        "imgLink": "https://i.ibb.co/ksNcpbB4/logo.png"
+      },
+      {
+        "question": "The Korean first name of President MK is Min-Kwon (민권).",
+        "answer": false,
+        "explanation": "Min-Kwon (민권) is not President MK's Korean given name.",
+        "imgLink": "https://i.ibb.co/mVBz0Kjt/image.png"
+      },
+      {
+        "question": "Carrots were originally purple, white, or yellow; the orange carrot we eat today was bred in the Netherlands in honor of the Dutch royal family.",
+        "answer": true,
+        "explanation": "Early cultivars were predominantly purple and yellow; 16th-17th-century Dutch growers popularized orange strains honoring the House of Orange.",
+        "imgLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zZZGeElzZ-t7NKkNS1K8IPnd75JFUsdg_8KXIkO1PwCF4y2mnTusstLf&s=10"
+      },
+      {
+        "question": "There are so many coffee shops in Seoul that there's 1 café per 500 inhabitants.",
+        "answer": true,
+        "explanation": "Seoul has approximately 9.3 million people and more than 20,000 cafés, resulting in roughly one café per 465 inhabitants.",
+        "imgLink": "https://i.ibb.co/VY7tGQFz/image.png"
+      }
+    ],
+    "hard": [
+      {
+        "question": "The largest bridge spanning the Amazon River is located near Leticia in Colombia, featuring foundations over 20 meters deep.",
+        "answer": false,
+        "explanation": "No bridge crosses the main stem of the Amazon River anywhere along its entire course.",
+        "imgLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSykuQ-Vd17Tg52tZ-AQJksV3a6PajgeCsXIEC6mwLzM3lIQff62fD7prK&s=10 "
+      },
+      {
+        "question": "Located in Nice, the Marc Chagall National Museum welcomes over 50,000 visitors from around the world each year.",
+        "answer": true,
+        "explanation": "The Musee National Marc Chagall in Nice consistently records well over 50,000 visitors annually.",
+        "imgLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD4wmrQJ9hZaDi_FHyxBAnTnvvI2FkZ17eExXbS1ENCyoGX7KsonzKl5k&s=10"
+      },
+      {
+        "question": "Sweden has more islands within its territory than Indonesia.",
+        "answer": true,
+        "explanation": "Sweden contains over 267,000 islands, the most globally, compared to Indonesia's approximately 17,500.",
+        "imgLink": "https://images.locationscout.net/2025/01/idoeborg-sweden-8mxd.webp?h=1400&q=80"
+      }
+    ],
+    "unknown": [
+      {
+        "question": "Can MK drink a full can of beer in less than 15 seconds?",
+        "answer": null,
+        "explanation": null,
+        "timer": 15,
+        "imgLink": "https://media.tenor.com/AsisX5xdeRgAAAAM/drinking-beer.gif"
+      },
+      {
+        "question": "Can Ethan beat Ian on a push-up marathon?",
+        "answer": null,
+        "explanation": null,
+        "timer": null,
+        "imgLink": "https://i.pinimg.com/originals/b0/da/7f/b0da7f7f3556befcc7cbdd0ba33be39e.gif"
+      },
+      {
+        "question": "Can Minjeong, using an initially full bottle of soju, perform 3 bottle flips in less than 1 minute?",
+        "answer": null,
+        "explanation": null,
+        "timer": 60,
+        "imgLink": "https://i.pinimg.com/originals/00/93/d9/0093d908e457902db222c855149a3bff.gif"
+      },
+      {
+        "question": "Can Hayoon and Chi, while being handcuffed togethed buy a soju bottle at the closest CU and come back in less than 3 minutes and 10 seconds?",
+        "answer": null,
+        "explanation": null,
+        "timer": 190 
+        "imgLink": "https://media1.tenor.com/m/mRyhrvG98M4AAAAC/christmas-shopping-run.gif"
+      },
+      {
+        "question": "Can Ellie draw the Korean flag geometrically accurately in less than 20 seconds?",
+        "answer": null,
+        "explanation": null,
+        "timer": 20,
+        "imgLink": "https://media1.tenor.com/m/xrFcVTHEH0oAAAAd/snowball-rocksideroad.gif"
+      }
+    ],
+    "revival": [
+      {
+        "question": "Can anyone play any song on the piano?",
+        "answer": null,
+        "explanation": null,
+        "imgLink": "https://media1.tenor.com/m/b0Y_-2NS328AAAAC/cat-playing-piano-funny.gif"
+      },
+            {
+        "question": "Does anyone who knows the first 7 digits of pi in order? (don't say it out loud)",
+        "answer": null,
+        "explanation": null,
+        "imgLink": "https://media.tenor.com/oxuTlNpDM30AAAAi/pet-pi.gif"
+      },
+      {
+        "question": "Does anyone know how to juggle with 3 objects?",
+        "answer": null,
+        "explanation": null,
+        "imgLink": "https://media.tenor.com/-dehZyIryPsAAAAi/play-0529dream-hugo.gif"
+      },
+      {
+        "question": "Does anyone know how to score a bullseye or 25 in darts in less than 10 darts?",
+        "answer": null,
+        "explanation": null,
+        "imgLink": "https://media1.tenor.com/m/oNuBOkzLZTQAAAAC/darts-precisely.gif"
+      }
+    ]
+  }
+]
