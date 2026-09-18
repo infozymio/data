@@ -131,6 +131,18 @@
         "answer": true,
         "explanation": "Sweden contains over 267,000 islands, the most globally, compared to Indonesia's approximately 17,500.",
         "imgLink": "https://images.locationscout.net/2025/01/idoeborg-sweden-8mxd.webp?h=1400&q=80"
+      },
+      {
+        "question": "Pink is one of the colors of the rainbow.",
+        "answer": false,
+        "explanation": "Pink is not a spectral color of the rainbow. A rainbow is traditionally described as having red, orange, yellow, green, blue, indigo, and violet.",
+        "imgLink": "https://static.wikia.nocookie.net/g5mlp/images/a/a2/RainbowDashIDMovie.png/revision/latest?cb=20260608204030"
+      },
+      {
+        "question": "2028 will be the next leap year, with 366 days instead of 365.",
+        "answer": true,
+        "explanation": "2028 will be a leap year with 366 days instead of the usual 365. Leap years generally occur every four years.",
+        "imgLink": "https://www.saturdaygift.com/wp-content/uploads/List-of-leap-years-next-leap-year-previous-leap-years-and-upcoming-leap-years-SaturdayGift.jpg"
       }
     ],
     "unknown": [
