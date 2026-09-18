@@ -27,7 +27,7 @@
         "imgLink": "https://i.ebayimg.com/images/g/QKkAAOSwTT9m4fKG/s-l1200.jpg"
       },
       {
-        "question": "South Korea is the Olympic champion in archery Men or Women.",
+        "question": "South Korea is the Olympic champion in archery, men or women.",
         "answer": true,
         "explanation": "South Korea holds dominant Olympic archery titles, regularly sweeping individual and team gold medals.",
         "imgLink": "https://www.anocolympic.org/wp-content/uploads/2024/07/GettyImages-2164104905.jpg"
@@ -39,7 +39,7 @@
         "imgLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa5OcKBnP_Mp2KnjfeacZRT00AbE9c2UrY-50DJiVHkx3KuwatnCB5uMrx&s=10"
       },
       {
-        "question": "In South Korea, April 14th is known as \"Black Day.\"",
+        "question": "In South Korea, April 14th is known as 'Black Day.'",
         "answer": true,
         "explanation": "Black Day is an unofficial holiday where singles gather to wear black and eat jajangmyeon.",
         "imgLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzM4Nxv1EGvQqmjQL3OEfdg6KKnRSknSydR1yysg3zIxV_Oy0yaVjPVPE7&s=10"
@@ -57,7 +57,7 @@
         "imgLink": "https://crystalpng.com/wp-content/uploads/2025/01/squid-game-logo-in-circle.png"
       },
       {
-        "question": "In Japan, some people eat KFC chicken during Christmas Eve as a \"traditional\" meal.",
+        "question": "In Japan, some people eat KFC chicken during Christmas Eve as a 'traditional' meal.",
         "answer": true,
         "explanation": "Eating KFC on Christmas Eve became an enduring Japanese tradition following a successful 1974 marketing campaign.",
         "imgLink": "https://shoyusugar.com/wp-content/uploads/2025/12/KFC-bucket-2025.jpg"
@@ -69,7 +69,7 @@
         "imgLink": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Dimensions_tour_Eiffel.JPG?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
       },
       {
-        "question": "The Bagel was invented in Poland.",
+        "question": "The bagel was invented in Poland.",
         "answer": true,
         "explanation": "Historical records confirm bagels originated within the 16th-17th century Jewish community of Krakow, Poland.",
         "imgLink": "https://projectbly.com/assets/images/uploads/photos/photo/filename/4517/lookbook_30b7a2ba-227c-4c68-b47a-ff10d8f88fe0.jpg"
@@ -83,7 +83,7 @@
         "imgLink": "https://i.ibb.co/mVBz0Kjt/image.png"
       },
       {
-        "question": "Kimchi can be made with almost everything but watermelon kimchi does not exist.",
+        "question": "Kimchi can be made with almost everything, but watermelon kimchi does not exist.",
         "answer": false,
         "explanation": "Watermelon rind kimchi (subak-kkakdugi) is an established Korean culinary preparation.",
         "imgLink": "https://en-chatelaine.mblycdn.com/uploads/ench/2024/07/watermelon-kimchi-recipe-feature.jpg"
@@ -118,12 +118,12 @@
         "question": "The largest bridge spanning the Amazon River is located near Leticia in Colombia, featuring foundations over 20 meters deep.",
         "answer": false,
         "explanation": "No bridge crosses the main stem of the Amazon River anywhere along its entire course.",
-        "imgLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSykuQ-Vd17Tg52tZ-AQJksV3a6PajgeCsXIEC6mwLzM3lIQff62fD7prK&s=10 "
+        "imgLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSykuQ-Vd17Tg52tZ-AQJksV3a6PajgeCsXIEC6mwLzM3lIQff62fD7prK&s=10"
       },
       {
         "question": "Located in Nice, the Marc Chagall National Museum welcomes over 50,000 visitors from around the world each year.",
         "answer": true,
-        "explanation": "The Musee National Marc Chagall in Nice consistently records well over 50,000 visitors annually.",
+        "explanation": "The Musée National Marc Chagall in Nice consistently records well over 50,000 visitors annually.",
         "imgLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD4wmrQJ9hZaDi_FHyxBAnTnvvI2FkZ17eExXbS1ENCyoGX7KsonzKl5k&s=10"
       },
       {
@@ -142,7 +142,7 @@
         "imgLink": "https://media.tenor.com/AsisX5xdeRgAAAAM/drinking-beer.gif"
       },
       {
-        "question": "Can Ethan beat Ian on a push-up marathon?",
+        "question": "Can Ethan beat Ian in a push-up marathon?",
         "answer": null,
         "explanation": null,
         "timer": null,
@@ -156,10 +156,10 @@
         "imgLink": "https://i.pinimg.com/originals/00/93/d9/0093d908e457902db222c855149a3bff.gif"
       },
       {
-        "question": "Can Hayoon and Chi, while being handcuffed togethed buy a soju bottle at the closest CU and come back in less than 3 minutes and 10 seconds?",
+        "question": "Can Hayoon and Chi, while being HANDCUFFED TOGETHER, buy a soju bottle at the closest CU and come back in less than 3 minutes and 10 seconds?",
         "answer": null,
         "explanation": null,
-        "timer": 190 
+        "timer": 190,
         "imgLink": "https://media1.tenor.com/m/mRyhrvG98M4AAAAC/christmas-shopping-run.gif"
       },
       {
@@ -177,8 +177,8 @@
         "explanation": null,
         "imgLink": "https://media1.tenor.com/m/b0Y_-2NS328AAAAC/cat-playing-piano-funny.gif"
       },
-            {
-        "question": "Does anyone who knows the first 7 digits of pi in order? (don't say it out loud)",
+      {
+        "question": "Does anyone know the first 7 digits of pi in order? (Don't say them out loud.)",
         "answer": null,
         "explanation": null,
         "imgLink": "https://media.tenor.com/oxuTlNpDM30AAAAi/pet-pi.gif"
